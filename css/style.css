@@ -1,0 +1,27 @@
+body {
+    background:#ECF0F1;
+
+    margin-left:100px; 
+    margin-right:200px;
+}
+    header {
+        margin top:100px;
+    }
+
+h1 {
+    color:black;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 18px ;
+}
+
+
+.img_padrao {
+ margin-bottom: 20px   
+}
